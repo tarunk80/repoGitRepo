@@ -3,4 +3,5 @@
   <remote name="tarunk80"
           fetch="https://github.com/tarunk80/" />
   <project path="Repo1" name="Repo1" groups="github" />
+  <project path="Repo2" name="Repo2" groups="github" />
 </manifest>
